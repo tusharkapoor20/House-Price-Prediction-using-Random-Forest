@@ -10,7 +10,7 @@ Random Forest is an ensemble learning method that builds multiple decision trees
 
 ## Implementation
 random_forest_regression.ipynb: Jupyter Notebook containing the implementation of the Random Forest algorithm for house price prediction.
-data/: Directory containing the dataset used for training and testing the model.
+housing.csv: Directory containing the dataset used for training and testing the model.
 ## Evaluation
 The model's performance is evaluated using Mean Absolute Error (MAE), which measures the average absolute difference between the predicted and actual house prices. A lower MAE indicates better predictive accuracy.
 
